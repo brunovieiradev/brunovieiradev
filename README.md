@@ -72,3 +72,24 @@ Acredito que aprender vai além de decorar conceitos: é preciso compreender, pr
 ---
 
 📌 *Perfil em construção, assim como minha jornada na tecnologia.*
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://ghstats.dev/api/card?username=brunovieiradev&theme=tokyonight"
+    alt="Estatísticas do GitHub de brunovieiradev"
+  />
+ <img
+  height="165"
+  src="https://ghstats.dev/api/languages?username=brunovieiradev&theme=tokyonight"
+  alt="Linguagens dos repositórios públicos"
+ />
+</p>
+
+<p align="center">
+  <i>Aprendendo, construindo e evoluindo um projeto de cada vez.</i>
+</p>
