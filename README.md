@@ -75,19 +75,21 @@ Acredito que aprender vai além de decorar conceitos: é preciso compreender, pr
 
 ---
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img
-    height="165"
+    width="420"
     src="https://ghstats.dev/api/card?username=brunovieiradev&theme=tokyonight"
-    alt="Estatísticas do GitHub de brunovieiradev"
+    alt="Estatísticas do GitHub"
   />
- <img
-  height="165"
-  src="https://ghstats.dev/api/languages?username=brunovieiradev&theme=tokyonight"
-  alt="Linguagens dos repositórios públicos"
- />
+  <img
+    width="420"
+    src="https://ghstats.dev/api/langs?username=brunovieiradev&theme=tokyonight&layout=compact"
+    alt="Linguagens dos repositórios públicos"
+  />
 </p>
 
 <p align="center">
