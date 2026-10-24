@@ -4,12 +4,23 @@
 
 Meu foco é aprender os fundamentos da programação, desenvolver boas práticas e evoluir continuamente como desenvolvedor.
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
-### NEXUS — Plataforma de aprendizagem
+### 🧠 NEXUS — Plataforma de aprendizagem
 
-O **NEXUS** é um projeto em desenvolvimento que busca reunir organização de estudos, acompanhamento de progresso e ferramentas de apoio à aprendizagem.
+Plataforma em desenvolvimento com foco na organização dos estudos, acompanhamento do progresso e apoio ao aprendizado.
 
+**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
+
+🔒 **Status:** em desenvolvimento. O código-fonte está em repositório privado.
+
+### ☕ Estudos em Java
+
+Prática de lógica de programação, fundamentos da linguagem Java e resolução de desafios para fortalecer a base em desenvolvimento de software.
+
+**Objetivo:** transformar o aprendizado em projetos práticos e bem estruturados.
+
+📌 Novos projetos serão adicionados conforme forem desenvolvidos.
 **Tecnologias utilizadas:**
 - Next.js
 - React
